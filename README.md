@@ -14,5 +14,5 @@ The program applies the following algorithm for calculating the recommended dail
 # Warning:
     - ❗This calculation is a recommendation❗
 
-    -❗In order to get more accurate information, you need to contact a nutritionist❗
+    - ❗In order to get more accurate information, you need to contact a nutritionist❗
 
