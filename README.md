@@ -12,7 +12,7 @@ The program applies the following algorithm for calculating the recommended dail
 - The water consumption is adjusted based on the individual's level of physical activity, allowing for a slight increase in water intake with more activity.
 
 # Warning:
+    - ❗This calculation is a recommendation❗
 
-  ❗This calculation is a recommendation❗
-  ❗In order to get more accurate information, you need to contact a nutritionist❗
+    -❗In order to get more accurate information, you need to contact a nutritionist❗
 
