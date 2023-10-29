@@ -1,0 +1,11 @@
+[package]
+name = "Water_Consumption_Calculator"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "calculator"
+path = "src/calculator.rs"
+
+[dependencies]
+dialoguer = "0.11.0"
